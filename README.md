@@ -13,7 +13,7 @@ Sistema de generación de planillas/proformas en PDF utilizando React-PDF.
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/planilla-pdf-react.git
+git clone https://github.com/jimmy-portafolio/planilla-pdf-react.git
 
 # Instalar dependencias
 npm install
